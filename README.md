@@ -12,7 +12,7 @@ II.	 Présentation des interfaces graphiques :
 1.	Interface graphique 1 :
 <img width="535" height="332" alt="image" src="https://github.com/user-attachments/assets/0685070f-17a8-4412-8162-f8925de059a1" />
 
- Figure 1 : Interface d’administrateur
+                                                   Figure 1 : Interface d’administrateur
 
 
 o	Fonctionnement de l’interface administrateur
@@ -57,7 +57,7 @@ o	Retour à la page de connexion : le lien redirige vers l'interface AdminLogin.
 3.	Interface graphique 3
  <img width="827" height="487" alt="image" src="https://github.com/user-attachments/assets/8f55b135-63d9-472c-aee7-21689dfd9cbc" />
 
-Figure 3 : Interface Cours
+                                                Figure 3 : Interface Cours
 
 
 Fonctionnement de l'interface Cours
@@ -126,7 +126,7 @@ o	Les requêtes SQL sont exécutées à l’aide d’objets Statement et ResultS
 4.	Interface graphique 4
  <img width="822" height="481" alt="image" src="https://github.com/user-attachments/assets/2334f396-2a40-4d75-aa27-bf4afca91539" />
 
-Figure 4 : Interface Requetes
+                                                             Figure 4 : Interface Requetes
 
 
 Fonctionnement de l'interface Requetes
